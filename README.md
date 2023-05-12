@@ -1,3 +1,3 @@
 # tensorflow-practice
 
-Learning to create a NN model with tensorflow for a future fullstack app idea I have. 
+Learning to implement neural network models with tensorflow for a future app idea I have. 
